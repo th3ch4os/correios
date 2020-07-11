@@ -9,11 +9,11 @@
 
 ## Requerimentos
 
-Instalação do Módulo pycep_correios
+* Instalação do Módulo pycep_correios
 
 `pip install pycep_correios`
 
-Importar o módulo sys
+* Importar o módulo sys
 
 `import sys`
 
