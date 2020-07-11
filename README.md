@@ -1,7 +1,7 @@
  
 # Descrição 
 
- Script para conseguir informações básicas de CEP e código de rastreio dos correios , apenas fiz uma leve alteração para deixar mais fácil a visualização da saída
+ Script para conseguir informações básicas de CEP utilizando Dados dos Correios , apenas fiz uma leve alteração para deixar mais fácil a visualização da saída
  
 ## Utilização
 
