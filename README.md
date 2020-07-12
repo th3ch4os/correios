@@ -1,11 +1,17 @@
  
 # Descrição 
 
- Script para conseguir informações básicas de CEP utilizando Dados dos Correios , apenas fiz uma leve alteração para deixar mais fácil a visualização da saída
+ Script para conseguir informações básicas de CEP e Código de Rastreio utilizando Dados dos Correios , utilizando Requests e Beautifulsoup
  
 ## Utilização
 
+* Informações do CEP
+
 `python correios.py CEP`
+
+* Código de Rastreio
+
+` python correios.py XXXXXXXXX --c `
 
 ## Requerimentos
 
