@@ -9,7 +9,7 @@
 
 ## Requerimentos
 
-* Instalação do Módulo pycep_correios , requests , bs4
+* Instalação dos Módulos pycep_correios , requests , bs4
 
 `pip install pycep_correios && pip install requests && pip install bs4`
 
